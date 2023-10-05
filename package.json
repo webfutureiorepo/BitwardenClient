@@ -79,7 +79,7 @@
     "cross-env": "^7.0.3",
     "css-loader": "^6.5.1",
     "del": "^6.0.0",
-    "electron": "19.0.8",
+    "electron": "22.3.25",
     "electron-builder": "22.11.10",
     "electron-log": "^4.4.8",
     "electron-notarize": "^1.2.1",
